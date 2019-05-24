@@ -15,6 +15,17 @@
  */
 class NCL
 {
+    
+    const CASE_NOMENATIVE = 0; //именительный
+    const CASE_GENITIVE = 1; //родительный
+    const CASE_DATIVE = 2; //дательный
+    const CASE_ACCUSATIVE = 3; //винительный
+    const CASE_INSTRUMENTAL = 4; //творительный
+    const CASE_PREPOSITIONAL = 5; //предложный
+    
+    const GENDER_MALE = 1; // Мужской
+    const GENDER_FEMALE = 2; // Женский
+    
     /**
      * Мужской пол
      * @static integer
