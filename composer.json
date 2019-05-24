@@ -11,6 +11,10 @@
 		"php": ">=5.3.2"
 	},
 	"autoload": {
-		"classmap": ["Library/NCLNameCaseRu.php"]
+		"classmap": [
+			"Library/NCLNameCaseRu.php",
+			"Library/NCLNameCaseUa.php",
+			"Library/NCL/"
+		]
 	}
 }
