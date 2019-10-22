@@ -16,7 +16,7 @@
 class NCL
 {
     
-    const CASE_NOMENATIVE = 0; //именительный
+    const CASE_NOMINATIVE = 0; //именительный
     const CASE_GENITIVE = 1; //родительный
     const CASE_DATIVE = 2; //дательный
     const CASE_ACCUSATIVE = 3; //винительный
